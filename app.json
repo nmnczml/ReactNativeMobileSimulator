@@ -1,0 +1,20 @@
+{
+  "name": "CiKoMobile",
+  "displayName": "CiKoMobile",
+  "expo": {
+    "name": "CiKoMobile",
+    "slug": "CiKoMobile",
+    "version": "1.0.0",
+    "icon": "/Users/numancizmeli/Documents/nmnczmlPortfolio/ReactNativeWebSim/icon.png",
+    "android": {
+      "package": "com.cikobot.mobile",
+      "versionCode": 1
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.cikobot.mobile"
+    }
+  }
+}
